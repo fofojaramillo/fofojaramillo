@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fofojaramillo&label=Profile%20views&color=0e75b6&style=flat" alt="fofojaramillo" /> </p>
 
-- 🌱 I’m currently learning **Developing with Java and pursuing a Master's in Data Science**
+- 🌱 I’m currently learning **data science in a master's degree**
 
 - 📫 How to reach me **rodolfo.jaramillo@outlook.com**
 
